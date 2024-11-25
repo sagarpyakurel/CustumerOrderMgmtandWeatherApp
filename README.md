@@ -1,4 +1,4 @@
-# CustumerOrderMgmtandWeatherApp
+# CustumerOrderMgmt and WeatherApp
 Open Source Project
 Steps to run this Project: 
 1) Clone the repo:
