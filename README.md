@@ -2,7 +2,7 @@
 Open Source Project
 Steps to run this Project: 
 1) Clone the repo:
-      <b> git clone https://github.com/sagarpyakurel/CustumerOrderMgmtandWeatherApp.git <b>
+      git clone https://github.com/sagarpyakurel/CustumerOrderMgmtandWeatherApp.git 
 2) Navigate to project folder:
       cd crm1
 3) Create a virtual environment:
